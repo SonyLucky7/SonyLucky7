@@ -6,7 +6,7 @@
 <h3 align="center">AI-Augmented Full Stack Developer • Co-founder, Digital Bros Studio • Hyderabad, India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&size=22&pause=1000&color=EC4899&center=true&vCenter=true&width=650&lines=I+build+websites+that+win+clients;AI+%2B+Full+Stack+%2B+Marketing;Premium+design.+Clean+code.+Real+results." alt="Typing animation" />
+  <b>I build websites that win clients • AI + Full Stack + Marketing • Premium design, clean code, real results.</b>
 </p>
 
 <p align="center">
