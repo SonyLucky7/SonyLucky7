@@ -205,10 +205,6 @@ My agency site — web, marketing & automation services.
 ## 🧰 Tools & Tech Icons
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,vercel,git,github,vscode,figma" alt="Tech stack icons" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -235,21 +231,22 @@ My agency site — web, marketing & automation services.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonyLucky7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonyLucky7&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />
+  <img src="assets/stats-banner.webp" alt="Creative stats banner — charts, trophy and rocket" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonyLucky7&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SonyLucky7&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
-</p>
+| 🔥 At a glance | 📈 Number |
+|---|---|
+| Total contributions | **325** |
+| Current streak | **2 days** (Nov 3 – Nov 4) |
+| Longest streak | **8 days** (Sep 6 – Sep 13) |
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SonyLucky7&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
-</p>
+*Numbers above are from the streak card shown on Nov 4 — the live streak card above stays current, and GitHub's own contribution graph below the README always shows the full activity.*
+
+> Note: the old stats, top-languages, activity-graph and trophy widgets were removed on purpose — those third-party services are currently returning errors (503 / 402), which is why they showed as broken images. Everything left in this section is either hosted in this repo or the one streak service that is actually working.
 
 ---
 
@@ -302,5 +299,5 @@ Got a website, store, SaaS idea, or AI automation in mind? Let's build it proper
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:6d28d9,100:0f172a&height=120&section=footer" alt="Footer wave" />
+  <b>Thanks for visiting — let's build something great. 🚀</b>
 </p>
