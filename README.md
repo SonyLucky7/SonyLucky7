@@ -253,7 +253,7 @@ My agency site — web, marketing & automation services.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SonyLucky7/SonyLucky7/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/SonyLucky7/SonyLucky7/output/github-contribution-grid-snake.gif" alt="Contribution snake animation" />
 </p>
 
 ---
