@@ -43,7 +43,15 @@ I'm **Teja Oggu** — I turn ideas into premium websites, SaaS products, and AI 
 | 🎯 **Focus** | Websites that look premium and sell |
 | ✅ **Available** | Open for freelance & client work |
 
-**🛠️ Stack:** `Next.js` `React` `TypeScript` `Tailwind CSS` `Node.js` `AI APIs`
+**🛠️ Stack:**
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/AI_APIs-7c3aed?style=for-the-badge&logo=openai&logoColor=white" alt="AI APIs" />
+</p>
 
 ---
 
