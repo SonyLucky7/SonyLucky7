@@ -33,16 +33,17 @@ I'm **Teja Oggu** — I turn ideas into premium websites, SaaS products, and AI 
 - 💼 **Studio:** Digital Bros Studio — web, marketing & automation
 - 🎮 **Beyond code:** 6+ years of competitive BGMI esports as **HAC**
 
-```javascript
-const teja = {
-  role: "AI-Augmented Full Stack Developer",
-  studio: "Co-founder @ Digital Bros Studio",
-  location: "Hyderabad, India",
-  stack: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Node.js", "AI APIs"],
-  focus: "Websites that look premium and sell",
-  hireable: true
-};
-```
+### 💻 At a Glance
+
+| | |
+|---|---|
+| 👨‍💻 **Role** | AI-Augmented Full Stack Developer |
+| 🏢 **Studio** | Co-founder @ Digital Bros Studio |
+| 📍 **Location** | Hyderabad, India |
+| 🎯 **Focus** | Websites that look premium and sell |
+| ✅ **Available** | Open for freelance & client work |
+
+**🛠️ Stack:** `Next.js` `React` `TypeScript` `Tailwind CSS` `Node.js` `AI APIs`
 
 ---
 
