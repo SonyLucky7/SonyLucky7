@@ -231,9 +231,9 @@ My agency site — web, marketing & automation services.
 |---|---|
 | **LUCY AI** | Coming soon — posters, flyers, ad creatives & 4K images from prompts |
 | **Jarvis** | In progress — personal voice-controlled AI assistant |
-| **Melody** | In progress — Spotify-style music player project |
+| **Melody** | ✅ Done — Spotify-style music player ([repo](https://github.com/SonyLucky7/melody)) — backend, web player & Android app |
 
-*Honestly marked as in-progress / coming soon — not launched yet.*
+*Melody is done and on GitHub — LUCY AI and Jarvis are still in progress / coming soon, not launched yet.*
 
 ---
 
