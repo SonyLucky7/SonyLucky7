@@ -2,6 +2,8 @@
 
 **Independent Open-Source Developer — Building desktop trading & technical analysis tools.**
 
+[![Sponsor SonyLucky7](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/SonyLucky7)
+
 ## 🛠️ Stack
 
 <p>
@@ -33,3 +35,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/SonyLucky7/SonyLucky7/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </p>
+
+## 💖 Sponsor
+
+If you find my projects useful, consider [sponsoring me on GitHub](https://github.com/sponsors/SonyLucky7) — your support helps me keep building open-source tools.
